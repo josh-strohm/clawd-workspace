@@ -379,20 +379,6 @@
       "priority": "medium",
       "createdAt": "2026-02-10T02:56:33.721Z",
       "createdFromCron": "3cd8c7a1-ba71-4165-81db-5107e5849937"
-    },
-    {
-      "id": "task_1770692199540",
-      "title": "Clockodo Wöchentlicher Zeitcheck",
-      "description": "Schedule: 0 8 * * 1\n\n",
-      "status": "backlog",
-      "project": "system",
-      "tags": [
-        "from-cron"
-      ],
-      "subtasks": [],
-      "priority": "medium",
-      "createdAt": "2026-02-10T02:56:39.540Z",
-      "createdFromCron": "fbb3046c-8c8c-4fa5-9e0a-1316b59693e3"
     }
   ],
   "projects": [
@@ -423,5 +409,5 @@
       "time": "just now"
     }
   ],
-  "lastUpdated": "2026-01-01T00:00:00Z"
+  "lastUpdated": "2026-02-10T02:57:02.489Z"
 }
