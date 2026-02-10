@@ -183,6 +183,20 @@
       "priority": "medium",
       "createdAt": "2026-02-10T02:55:21.326Z",
       "createdFromCron": "3bf9ac42-0bd9-49c5-8ead-59b33b9213b4"
+    },
+    {
+      "id": "task_1770692126299",
+      "title": "Wetterbericht Berg",
+      "description": "Schedule: 0 8 * * *\n\n",
+      "status": "backlog",
+      "project": "system",
+      "tags": [
+        "from-cron"
+      ],
+      "subtasks": [],
+      "priority": "medium",
+      "createdAt": "2026-02-10T02:55:26.299Z",
+      "createdFromCron": "0af7b0ab-efec-49b8-b2ba-ccb7c309e2d9"
     }
   ],
   "projects": [
