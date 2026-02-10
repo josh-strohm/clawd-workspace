@@ -309,6 +309,20 @@
       "priority": "medium",
       "createdAt": "2026-02-10T02:56:10.483Z",
       "createdFromCron": "17244c9b-554d-4ca9-9abc-2a886f063865"
+    },
+    {
+      "id": "task_1770692177806",
+      "title": "BFSG LinkedIn Grafik",
+      "description": "Schedule: 0 8 30 1 *\n\n",
+      "status": "backlog",
+      "project": "system",
+      "tags": [
+        "from-cron"
+      ],
+      "subtasks": [],
+      "priority": "medium",
+      "createdAt": "2026-02-10T02:56:17.806Z",
+      "createdFromCron": "c3a52640-18b5-41cb-9861-8b194d58b72e"
     }
   ],
   "projects": [
