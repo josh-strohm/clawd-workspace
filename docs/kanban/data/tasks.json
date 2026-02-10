@@ -351,6 +351,20 @@
       "priority": "medium",
       "createdAt": "2026-02-10T02:56:25.700Z",
       "createdFromCron": "c3a52640-18b5-41cb-9861-8b194d58b72e"
+    },
+    {
+      "id": "task_1770692189385",
+      "title": "Erinnerung Zahnreinigung + Consors",
+      "description": "Schedule: 0 15 28 1 *\n\n",
+      "status": "backlog",
+      "project": "system",
+      "tags": [
+        "from-cron"
+      ],
+      "subtasks": [],
+      "priority": "medium",
+      "createdAt": "2026-02-10T02:56:29.385Z",
+      "createdFromCron": "c72db31d-7dff-43ff-acc4-f7e89ff85f65"
     }
   ],
   "projects": [
