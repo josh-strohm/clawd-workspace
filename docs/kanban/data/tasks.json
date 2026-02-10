@@ -44,7 +44,7 @@
       "priority": "medium",
       "createdAt": "2026-02-10T02:56:05.906Z",
       "createdFromCron": "17244c9b-554d-4ca9-9abc-2a886f063865",
-      "sortOrder": 6
+      "sortOrder": 0
     },
     {
       "id": "task_1770692177806",
@@ -59,7 +59,7 @@
       "priority": "medium",
       "createdAt": "2026-02-10T02:56:17.806Z",
       "createdFromCron": "c3a52640-18b5-41cb-9861-8b194d58b72e",
-      "sortOrder": 7
+      "sortOrder": 1
     }
   ],
   "projects": [
@@ -90,5 +90,5 @@
       "time": "just now"
     }
   ],
-  "lastUpdated": "2026-02-10T02:58:23.479Z"
+  "lastUpdated": "2026-02-10T02:58:24.039Z"
 }
