@@ -28,7 +28,8 @@
       ],
       "priority": "low",
       "comments": [],
-      "createdAt": "2026-01-01T00:00:02Z"
+      "createdAt": "2026-01-01T00:00:02Z",
+      "sortOrder": 0
     },
     {
       "id": "task_1770692134536",
@@ -42,7 +43,8 @@
       "subtasks": [],
       "priority": "medium",
       "createdAt": "2026-02-10T02:55:34.536Z",
-      "createdFromCron": "17244c9b-554d-4ca9-9abc-2a886f063865"
+      "createdFromCron": "17244c9b-554d-4ca9-9abc-2a886f063865",
+      "sortOrder": 0
     },
     {
       "id": "task_1770692138451",
@@ -56,7 +58,8 @@
       "subtasks": [],
       "priority": "medium",
       "createdAt": "2026-02-10T02:55:38.451Z",
-      "createdFromCron": "17244c9b-554d-4ca9-9abc-2a886f063865"
+      "createdFromCron": "17244c9b-554d-4ca9-9abc-2a886f063865",
+      "sortOrder": 1
     },
     {
       "id": "task_1770692142147",
@@ -70,7 +73,8 @@
       "subtasks": [],
       "priority": "medium",
       "createdAt": "2026-02-10T02:55:42.147Z",
-      "createdFromCron": "17244c9b-554d-4ca9-9abc-2a886f063865"
+      "createdFromCron": "17244c9b-554d-4ca9-9abc-2a886f063865",
+      "sortOrder": 2
     },
     {
       "id": "task_1770692146460",
@@ -84,7 +88,8 @@
       "subtasks": [],
       "priority": "medium",
       "createdAt": "2026-02-10T02:55:46.460Z",
-      "createdFromCron": "17244c9b-554d-4ca9-9abc-2a886f063865"
+      "createdFromCron": "17244c9b-554d-4ca9-9abc-2a886f063865",
+      "sortOrder": 3
     },
     {
       "id": "task_1770692154157",
@@ -98,7 +103,8 @@
       "subtasks": [],
       "priority": "medium",
       "createdAt": "2026-02-10T02:55:54.157Z",
-      "createdFromCron": "17244c9b-554d-4ca9-9abc-2a886f063865"
+      "createdFromCron": "17244c9b-554d-4ca9-9abc-2a886f063865",
+      "sortOrder": 4
     },
     {
       "id": "task_1770692162808",
@@ -112,7 +118,8 @@
       "subtasks": [],
       "priority": "medium",
       "createdAt": "2026-02-10T02:56:02.808Z",
-      "createdFromCron": "17244c9b-554d-4ca9-9abc-2a886f063865"
+      "createdFromCron": "17244c9b-554d-4ca9-9abc-2a886f063865",
+      "sortOrder": 5
     },
     {
       "id": "task_1770692165906",
@@ -126,7 +133,8 @@
       "subtasks": [],
       "priority": "medium",
       "createdAt": "2026-02-10T02:56:05.906Z",
-      "createdFromCron": "17244c9b-554d-4ca9-9abc-2a886f063865"
+      "createdFromCron": "17244c9b-554d-4ca9-9abc-2a886f063865",
+      "sortOrder": 6
     },
     {
       "id": "task_1770692177806",
@@ -140,7 +148,8 @@
       "subtasks": [],
       "priority": "medium",
       "createdAt": "2026-02-10T02:56:17.806Z",
-      "createdFromCron": "c3a52640-18b5-41cb-9861-8b194d58b72e"
+      "createdFromCron": "c3a52640-18b5-41cb-9861-8b194d58b72e",
+      "sortOrder": 7
     }
   ],
   "projects": [
@@ -171,5 +180,5 @@
       "time": "just now"
     }
   ],
-  "lastUpdated": "2026-02-10T02:58:04.293Z"
+  "lastUpdated": "2026-02-10T02:58:05.055Z"
 }
