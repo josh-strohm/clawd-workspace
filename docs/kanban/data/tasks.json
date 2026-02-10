@@ -27,6 +27,20 @@
       "priority": "medium",
       "createdAt": "2026-02-10T02:58:51.470Z",
       "createdFromCron": "17244c9b-554d-4ca9-9abc-2a886f063865"
+    },
+    {
+      "id": "task_1770692335615",
+      "title": "Krypto-Sentiment Nachmittag",
+      "description": "Schedule: 45 15 * * *\n\n",
+      "status": "backlog",
+      "project": "system",
+      "tags": [
+        "from-cron"
+      ],
+      "subtasks": [],
+      "priority": "medium",
+      "createdAt": "2026-02-10T02:58:55.615Z",
+      "createdFromCron": "3bf9ac42-0bd9-49c5-8ead-59b33b9213b4"
     }
   ],
   "projects": [
